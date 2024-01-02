@@ -1,4 +1,4 @@
-name: Laravel CI
+name: Voting App
 
 on:
   push:
